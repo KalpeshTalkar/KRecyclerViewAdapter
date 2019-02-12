@@ -1,6 +1,5 @@
 package com.kalpesh.krecyclerviewadapter;
 
-
 import android.support.annotation.NonNull;
 
 /**

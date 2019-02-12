@@ -4,7 +4,7 @@ import android.support.annotation.NonNull;
 import android.view.ViewGroup;
 
 /**
- * Created by kalpeshtalkar on 02/07/16.
+ * Created by Kalpesh Talkar on 02/07/16.
  */
 public interface KRecyclerViewHolderViewTypeCallBack {
 
