@@ -1,4 +1,4 @@
-# KGenericRecyclerAdapter
+# KRecyclerViewAdapter
 
 [![platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-15%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=15)
