@@ -23,7 +23,7 @@ allprojects {
 ### Add the dependency in your app level gradle:
 
 ```GRADLE
-implementation 'com.github.KalpeshTalkar:KGenericRecyclerAdapter:3.0.0'
+implementation 'com.github.KalpeshTalkar:KRecyclerViewAdapter:1.0.0'
 ```
 
 ## Usage:
